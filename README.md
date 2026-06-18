@@ -12,11 +12,15 @@ Computer Science Student 💻❤️ | Cybersecurity Enthusiast🛡️| Python & 
   
 * ✉️  You can contact me at [Nazanin.narouiee@gmail.com](mailto:Nazanin.narouiee@gmail.com)
   
-* 🧠  I'm currently learning I'M CURRENTLY LEARNING: - Python Security Automation - Linux & Kali Linux - CompTIA Network+ & Security+ (Completed ✅) - SANS SEC504 (In Progress 📖)
+* 🧠  I'm currently learning:
+  - Python Security Automation 🐍
+  - Linux & Kali Linux 🐧
+  - CompTIA Network+ & Security+ (Completed ✅)
+  - SANS SEC504 (In Progress 📖)
   
-* 👥  I'm looking to collaborate on I'm particularly interested in projects related to ethical hacking, vulnerability assessment, and security automation.
+* 👥  I'm looking to collaborate on: Open-source security projects, Python-based security tools.
   
-* 💬  Ask me about: just python - linux
+* 💬  Ask me about:Python, Linux, Cybersecurity basics, and my journey into ethical hacking! 🐍🐧
   
 * 🎯 My goal is to join Google's Security Team and contribute to making the internet safer for billions of users. I believe in the power of ethical hacking and secure-by-design principles.
   
